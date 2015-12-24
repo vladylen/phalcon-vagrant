@@ -1,0 +1,9 @@
+.AppleDouble
+.DS_Store
+._*
+.project
+.settings
+.vagrant*
+.idea*
+www/*
+!www/index.php
